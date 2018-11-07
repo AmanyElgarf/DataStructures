@@ -94,22 +94,3 @@ class Heap:
 
 
 
-object = Heap(2)
-object.insert(3)
-object.insert(11)
-object.insert(4)
-object.insert(5)
-object.insert(10)
-object.insert(1)
-object.insert(55)
-object.insert(7)
-
-#object.display()
-
-object.heap_sort()
-object.display()
-
-
-
-
-
